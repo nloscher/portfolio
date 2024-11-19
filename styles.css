@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(#CCCCCC, #666666);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    max-width: 435px;
+}
+#graphic-design img{
+    background-color: #48bccf;
+    padding: 1rem;
+}
+#photography img{
+    background-color: #48bccf;
+    padding: 1rem;
+}
+@media (min-width: 1000px){
+    img{
+        max-width: 935px;
+    }
+}

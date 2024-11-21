@@ -14,7 +14,14 @@ img{
     padding: 1rem;
 }
 @media (min-width: 1000px){
+    body{
+        font-size: 20px;
+    }
     img{
         max-width: 935px;
+    }
+    header{
+        text-align: center;
+        font-size: x-large;
     }
 }
